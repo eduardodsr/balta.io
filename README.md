@@ -27,10 +27,10 @@
 
 ## Objetivo Principal: 🎯
 
-Neste curso vamos dar nosso primeiro mergulho no mundo do React, de forma rápida, simples e direta ao ponto!
+Neste curso vamos dar nosso primeiro mergulho no mundo do **React**, de forma rápida, simples e direta ao ponto!
 
 ### Fundamentos do React
-Aprenda a criar e estruturar Apps com React, trabalhando com componentes e focando no reuso de código.
+Aprenda a criar e estruturar **Apps com React**, trabalhando com componentes e focando no reuso de código.
 
 Neste curso veremos mais sobre o uso do TypeScript com React, trazendo ainda mais vida para nossos Apps com o poder da tipagem.
 
@@ -46,8 +46,9 @@ Vamos também ver como podemos criar e validar formulários, utilizando bibliote
 ### Router
 Para finalizar, vamos aprender como fazer a navegação de forma eficiente da nossa aplicação, combinando todos os tópicos anteriores.
 
+## Meu progresso do curso - ✅ (Check Mark)
 
-## Aulas - Criação do App (23) aulas | Meu progresso do curso - ✅ (Check Mark)
+### Aulas - Criação do App (23) aulas | 
 
 01. Apresentação -  2 min  ✅
    
@@ -88,15 +89,15 @@ Para finalizar, vamos aprender como fazer a navegação de forma eficiente da no
    
 18. Services -  3 min  ✅
    
-19. useState -  8 min  :x:
+19. useState -  8 min  ✅
    
-20. useEffect -  5 min  :x:
+20. useEffect -  5 min ✅
    
-21. React Router -  6 min  :x:
+21. React Router -  6 min  ✅
    
-22. React Forms -  10 min :x:
+22. React Forms -  10 min ✅
    
-23. Build e Conclusão -  2 min :x:
+23. Build e Conclusão -  2 min ✅
 
 
 ### CONTATO:
