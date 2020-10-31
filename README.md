@@ -104,4 +104,11 @@ Para finalizar, vamos aprender como fazer a navegação de forma eficiente da no
 EDUARDO DA SILVA RODRIGUES
 eduardodsr@gmail.com
 
+
+### CERTIFICADO:
+
+<p align="center">
+  <img src=https://github.com/eduardodsr/balta.io/blob/main/certificado.png??raw=true" alt="imagem" width="800px" />
+ </p>
+
 ### End
