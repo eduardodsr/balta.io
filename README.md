@@ -99,6 +99,13 @@ Para finalizar, vamos aprender como fazer a navegação de forma eficiente da no
 23. Build e Conclusão -  2 min :x:
 
 
+### CERTIFICADO:
+
+<p align="center">
+  <img src=https://github.com/eduardodsr/balta.io/blob/main/certificado.png??raw=true" alt="imagem" width="600px" />
+ </p>
+
+
 ### CONTATO:
 
 EDUARDO DA SILVA RODRIGUES
