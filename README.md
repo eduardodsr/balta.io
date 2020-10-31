@@ -74,19 +74,19 @@ Para finalizar, vamos aprender como fazer a navegação de forma eficiente da no
    
 11. Criando o item da lista -  5 min ✅
    
-12. Passando parâmetros para os componentes -  5 min  :x:
+12. Passando parâmetros para os componentes -  5 min  ✅
    
-13. Manipulando eventos -  4 min  :x:
+13. Manipulando eventos -  4 min  ✅
    
-14. Eventos com parâmetros -  3 min  :x:
+14. Eventos com parâmetros -  3 min  ✅
    
-15. React Context -  10 min  :x:
+15. React Context -  10 min  ✅
    
-16. Provider -  8 min  :x:
+16. Provider -  8 min  ✅
 
-17. Utilizando Context -  5 min  :x:
+17. Utilizando Context -  5 min  ✅
    
-18. Services -  3 min  :x:
+18. Services -  3 min  ✅
    
 19. useState -  8 min  :x:
    
